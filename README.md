@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/skydzn/skydzn/blob/main/assets/readme_header.gif?raw=true">
+  <img src="https://github.com/ripel2/ripel2/blob/main/assets/readme_header.gif?raw=true">
 </p>
 <h1 align="center">Bonjour à tous👋</h1>
 
@@ -40,7 +40,7 @@
 
 ## Stats
 ### Codewars
-[![Codewars](https://www.codewars.com/users/skydzn/badges/large)](https://www.codewars.com/users/skydzn)
+[![Codewars](https://www.codewars.com/users/ripel2/badges/large)](https://www.codewars.com/users/ripel2)
 
 ---
 
