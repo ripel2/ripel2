@@ -6,7 +6,7 @@
 ---
 
 ## A propos de moi
-:computer: Je suis étudiant en première année à Epitech Nantes (Promotion 2026)
+:computer: Je suis étudiant en deuxième année à Epitech Nantes (Promotion 2026)
 
 #### Mes centres d'intérets (tech)
 - :key: Cyber Sécurité (pentesting, social engineering, phishing, cracking, privesc)
