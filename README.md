@@ -9,8 +9,10 @@
 :computer: Je suis étudiant en troisième année à Epitech Nantes (Promotion 2026)
 
 #### Mes centres d'intérets (tech)
-- :key: Cyber Sécurité (pentesting, social engineering, phishing, cracking, privesc)
+
 - :bulb: Intelligence Artificielle (Machine Learning, classification, conduite autonome)
+- :ledger: Blockchain (Ethereum and other EVM chains)
+- :key: Cyber Sécurité (pentesting, social engineering, phishing, cracking, privesc)
 - :ocean: Big Data
 - :cloud: Cloud Computing
 
