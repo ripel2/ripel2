@@ -6,7 +6,7 @@
 ---
 
 ## A propos de moi
-:computer: Je suis étudiant en quatrième année à Epitech Nantes (Promotion 2026)
+:computer: Je suis étudiant en cinquième année à Epitech Nantes (Promotion 2026)
 
 #### Mes centres d'intérets (tech)
 
